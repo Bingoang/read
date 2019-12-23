@@ -1,0 +1,4 @@
+﻿  workerManager.cpp
+g:\vs2015projects\staff\staff\workermanager.cpp(166): warning C4102: “defualt”: 未引用的标签
+  Staff.vcxproj -> G:\vs2015projects\Staff\Debug\Staff.exe
+  Staff.vcxproj -> G:\vs2015projects\Staff\Debug\Staff.pdb (Full PDB)
