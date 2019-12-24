@@ -1,4 +1,10 @@
 ﻿  workerManager.cpp
-g:\vs2015projects\staff\staff\workermanager.cpp(166): warning C4102: “defualt”: 未引用的标签
-  Staff.vcxproj -> G:\vs2015projects\Staff\Debug\Staff.exe
-  Staff.vcxproj -> G:\vs2015projects\Staff\Debug\Staff.pdb (Full PDB)
+g:\git_test\staff\workermanager.cpp(166): warning C4102: “defualt”: 未引用的标签
+  staff_Main.cpp
+  manager.cpp
+  employee.cpp
+  boss.cpp
+  正在生成代码...
+  LINK : 没有找到 G:\git_test\Debug\Staff.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Staff.vcxproj -> G:\git_test\Debug\Staff.exe
+  Staff.vcxproj -> G:\git_test\Debug\Staff.pdb (Full PDB)

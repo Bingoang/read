@@ -1,0 +1,6 @@
+1 111 1
+2 chenliang 2
+3 sam 3
+4 lili 1
+5 ali 1
+6 hake 3
